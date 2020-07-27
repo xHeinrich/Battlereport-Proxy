@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "caseyamcl/guzzle_retry_middleware": "^2.3"
+    }
+}
